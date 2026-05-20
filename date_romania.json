@@ -1,0 +1,14 @@
+{
+  "imagini": [
+    {
+      "fisier": "bran.jpg",
+      "titlu": "Castelul Bran",
+      "descriere": "O fortăreață medievală impunătoare, legată de legenda lui Dracula."
+    },
+    {
+      "fisier": "harta.jpg",
+      "titlu": "Relieful României",
+      "descriere": "O hartă interactivă ce prezintă unitățile de relief principale."
+    }
+  ]
+}
